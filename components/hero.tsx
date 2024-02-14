@@ -26,7 +26,8 @@ export default function Hero() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                Designed with salespeople in mind. Your portal to success!
+                Designed with salespeople like you in mind. Your portal to
+                success!
               </p>
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
@@ -60,8 +61,8 @@ export default function Hero() {
             thumbHeight={432}
             thumbAlt="Modal video thumbnail"
             video="/videos/video.mp4"
-            videoWidth={1920}
-            videoHeight={1080}
+            videoWidth={768}
+            videoHeight={432}
           />
         </div>
       </div>
